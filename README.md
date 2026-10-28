@@ -95,14 +95,14 @@ I turn ideas into working products, from landing pages to full platforms with a 
 <td width="50%" valign="top">
 
 ### MarketBridge — B2C/B2B Marketplace
-<img src="assets/marketbridge.jpg" alt="MarketBridge">
+<a href="https://www.marketbridge.pp.ua"><img src="assets/marketbridge.jpg" alt="MarketBridge"></a>
 
 SaaS-платформа электронной торговли: общий каталог и склад, витрины для покупателей и компаний, кабинет продавца и админка.
 *E-commerce SaaS: shared catalog and inventory, B2C and B2B storefronts, seller and admin panels.*
 
 `Next.js` `NestJS` `Prisma` `PostgreSQL`
 
-**[Подробнее / Details](https://github.com/Ravshanjon-developer/marketbridge)**
+**[Демо / Live →](https://www.marketbridge.pp.ua)** · [Подробнее / Details](https://github.com/Ravshanjon-developer/marketbridge)
 
 </td>
 </tr>
