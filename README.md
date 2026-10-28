@@ -6,6 +6,7 @@
 *AI Developer · building websites, apps and automation with AI*
 
 [![Portfolio](https://img.shields.io/badge/Портфолио-сайт-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://ravshanjon-developer.github.io/PORTFOLIO/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+992_11_998_5098-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/992119985098)
 [![Telegram](https://img.shields.io/badge/Telegram-@ravshanjonitolibjon-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ravshanjonitolibjon)
 [![Email](https://img.shields.io/badge/Email-ravg578@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ravg578@gmail.com)
 
@@ -112,6 +113,6 @@ SaaS-платформа электронной торговли: общий ка
 <div align="center">
 
 **Открыт к заказам и сотрудничеству · Open to projects and collaboration**
-[Telegram](https://t.me/ravshanjonitolibjon) · [Email](mailto:ravg578@gmail.com)
+[WhatsApp](https://wa.me/992119985098) · [Telegram](https://t.me/ravshanjonitolibjon) · [Email](mailto:ravg578@gmail.com)
 
 </div>
