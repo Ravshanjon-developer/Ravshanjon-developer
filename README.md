@@ -5,6 +5,7 @@
 **AI Developer · создаю сайты, приложения и автоматизацию с помощью ИИ**
 *AI Developer · building websites, apps and automation with AI*
 
+[![Portfolio](https://img.shields.io/badge/Портфолио-сайт-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://ravshanjon-developer.github.io/PORTFOLIO/)
 [![Telegram](https://img.shields.io/badge/Telegram-@ravshanjonitolibjon-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ravshanjonitolibjon)
 [![Email](https://img.shields.io/badge/Email-ravg578@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ravg578@gmail.com)
 
