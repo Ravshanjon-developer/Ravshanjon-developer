@@ -94,6 +94,7 @@ I turn ideas into working products, from landing pages to full platforms with a 
 <td width="50%" valign="top">
 
 ### MarketBridge — B2C/B2B Marketplace
+<img src="assets/marketbridge.jpg" alt="MarketBridge">
 
 SaaS-платформа электронной торговли: общий каталог и склад, витрины для покупателей и компаний, кабинет продавца и админка.
 *E-commerce SaaS: shared catalog and inventory, B2C and B2B storefronts, seller and admin panels.*
