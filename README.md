@@ -82,14 +82,14 @@ I turn ideas into working products, from landing pages to full platforms with a 
 <td width="50%" valign="top">
 
 ### KeyMaster — Hotkeys Learning Platform
-<a href="https://keymaster-liart.vercel.app"><img src="assets/keymaster.png" alt="KeyMaster"></a>
+<a href="https://www.keymaster.pp.ua"><img src="assets/keymaster.png" alt="KeyMaster"></a>
 
 Платформа для изучения горячих клавиш: курсы, практика, рейтинг, личный путь, RU/TJ.
 *Platform for learning keyboard shortcuts: courses, practice, leaderboard, RU/TJ.*
 
 `React` `TypeScript` `FastAPI` `PostgreSQL`
 
-**[Демо / Live →](https://keymaster-liart.vercel.app)** · [Подробнее / Details](https://github.com/Ravshanjon-developer/keymaster-platform)
+**[Демо / Live →](https://www.keymaster.pp.ua)** · [Подробнее / Details](https://github.com/Ravshanjon-developer/keymaster-platform)
 
 </td>
 <td width="50%" valign="top">
